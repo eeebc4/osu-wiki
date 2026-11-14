@@ -45,3 +45,8 @@ area:translations:
           - all-globs-to-all-files:
               - "!wiki/**/en.md"
               - "!meta/group-info/en.yaml"
+
+area:wiki:
+  - changed-files:
+      - any-glob-to-any-file:
+          - wiki/**
