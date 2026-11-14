@@ -46,7 +46,7 @@ area:translations:
               - "!wiki/**/en.md"
               - "!meta/group-info/en.yaml"
 
-area:wiki:
+bug:
   - changed-files:
       - any-glob-to-any-file:
           - wiki/**
